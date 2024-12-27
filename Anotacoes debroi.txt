@@ -1,0 +1,13 @@
+------ Anotacoes Debroi ------
+
+criar projeto:
+npm create vite@latest
+
+instalar dependências:
+npm install
+
+executar o programa:
+npm run dev
+
+facilita a criacao de uma activity dentro de react
+rafce
